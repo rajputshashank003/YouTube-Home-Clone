@@ -1,0 +1,541 @@
+body{
+    background-image:url("one.jpg");
+    background-size: 1080px;
+}
+p{
+    padding:0px;
+    margin:0px;
+}
+.div-1{
+    position: absolute;
+    border-radius: 20px;
+    top: 202px;
+    left: 418px;
+    height: 278px;
+    width: 130px;
+    background-color: white;
+}
+.pill{
+    position: absolute;
+    top: 208px;
+    left: 426px;
+    border-radius: 10px;
+    height: 10px;
+    width: 10px;
+    background-color: black;
+
+}
+.time{
+    position: absolute;
+    top: 207px;
+    left: 437px;
+    font-size: 9px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#battery{
+    position: absolute;
+    top: 208px;
+    left: 529px;
+    font-size: 10px;
+}
+#signal{
+    position: absolute;
+    top: 207px;
+    left: 515px;
+    font-size: 10px;
+}
+.img-1{
+    position: absolute;
+    top: 224px;
+    left: 421px;
+    height: 11px;
+    width: 44px;
+}
+#tv{
+    position: absolute;
+    top: 226px;
+    left: 492px;
+    font-size: 10px;
+}
+#user{
+    position: absolute;
+    top: 226px;
+    left: 536px;
+    font-size: 10px;
+}
+#search{
+    position: absolute;
+    top: 226px;
+    left: 520px;
+    font-size: 10px;
+}
+#notification{
+    position: absolute;
+    top: 226px;
+    left: 506px;
+    font-size: 10px;
+}
+#compass{
+    position: absolute;
+    top: 242px;
+    left: 421px;
+    font-size: 15px;
+}
+.all{
+    position: absolute;
+    top: 243px;
+    left: 449px;
+    font-size: 8px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4e9e9;
+    border-radius: 10px;
+    height: 12px;
+    width: 15px;
+    text-align: center;
+}
+.all p{
+    color: black;
+}
+.game{
+    position: absolute;
+    top: 243px;
+    left: 468px;
+    font-size: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:  grey;
+    border-radius: 10px;
+    height: 12px;
+    width: 36px;
+    text-align: center;
+}
+.game p{
+    color: white;
+}
+.redmi{
+    position: absolute;
+    top: 243px;
+    left: 507px;
+    font-size: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:  #f4e9e9;
+    border-radius: 10px;
+    height: 13px;
+    width: 29px;
+    text-align: center;
+}
+.redmi p{
+    color: black;
+}
+hr{
+    position: absolute;
+    top: 450px;
+    left: 418px;
+    border:0.5px solid black;
+    width: 129px;
+}
+#home{
+    position: absolute;
+    top: 460px;
+    left: 425px;
+    font-size: 16px;
+}
+#shorts{
+    position: absolute;
+    top: 463px;
+    left: 452px;
+    font-size: 13px;
+}
+.plus{
+    position: absolute;
+    top: 461px;
+    left: 477px;
+    font-size: 13px;
+}
+#subscribe{
+    position: absolute;
+    top: 463px;
+    left: 501px;
+    font-size: 13px;
+}
+#library{
+    position: absolute;
+    top: 463px;
+    left: 527px;
+    font-size: 13px;
+}
+.img-2{
+    height: 93px;
+    width: 130px;
+    position: absolute;
+    top: 266px;
+    left: 418px;
+}
+.chname{
+    height: 7px;
+    width: 34px;
+    position: absolute;
+    top: 350px;
+    left: 439px;
+    background-color: white;
+    text-align: left;
+    border-radius: 10px;
+
+}
+.chname p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 4px;
+    color: grey;
+}
+.img-3{
+    height: 93px;
+    width: 130px;
+    position: absolute;
+    top: 365px;
+    left: 418px;
+}
+.chname-2{
+    height: 7px;
+    width: 19px;
+    position: absolute;
+    top: 434px;
+    left: 439px;
+    background-color: white;
+    text-align: left;
+    border-radius: 10px;
+
+}
+.chname-2 p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 4px;
+    color: grey;
+}
+
+/*Whats app start*/
+.div-2{
+    position: absolute;
+    border-radius: 20px;
+    top: 175px;
+    left: 574px;
+    height: 305px;
+    width: 143px;
+    background-color: white;
+}
+
+.div-3{
+    position: absolute;
+    border-radius: 20px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    top: 175px;
+    left: 574px;
+    height: 57px;
+    width: 143px;
+    background-color: #075E54;
+}
+
+.pill-2{
+    position: absolute;
+    top: 180px;
+    left: 626px;
+    border-radius: 10px;
+    height: 10px;
+    width: 40px;
+    background-color: black;
+
+}
+.logo{
+    position: absolute;
+    top: 198px;
+    left: 580px;
+    font-size: 11px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#camera{
+    position: absolute;
+    top: 198px;
+    left: 657px;
+    font-size: 11px;
+    color: white;
+}
+#search-2{
+    position: absolute;
+    top: 198px;
+    left: 686px;
+    font-size: 11px;
+    color: white;
+}
+
+#menu-2{
+    position: absolute;
+    top: 198px;
+    left: 711px;
+    font-size: 12px;
+    color: white;
+}
+#user-2{
+    position: absolute;
+    top: 218px;
+    left: 580px;
+    font-size: 10px;
+    color: white;
+}
+#chat{
+    position: absolute;
+    top: 218px;
+    left: 601px;
+    font-size: 8px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#hr-2{
+    position: absolute;
+    top: 222px;
+    left: 597px;
+    border: 1px solid white;
+    background-color: white;
+    width: 30px;
+}
+
+#status{
+    position: absolute;
+    top: 218px;
+    left: 642px;
+    font-size: 8px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#calls{
+    position: absolute;
+    top: 218px;
+    left: 687px;
+    font-size: 8px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#u1{
+    position: absolute;
+    top: 240px;
+    left: 581px;
+    font-size: 18px;
+    color: rgb(171, 167, 167);
+}
+#contact-1{
+    position: absolute;
+    top: 240px;
+    left: 607px;
+    font-size: 8px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#chat-1{
+    position: absolute;
+    top: 250px;
+    left: 607px;
+    font-size: 6px;
+    color: grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#time-1{
+    position: absolute;
+    top: 242px;
+    left: 697px;
+    font-size: 6px;
+    color: grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#u2{
+    position: absolute;
+    top: 264px;
+    left: 581px;
+    font-size: 18px;
+    color: rgb(171, 167, 167);
+}
+#contact-2{
+    position: absolute;
+    top: 264px;
+    left: 607px;
+    font-size: 8px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#chat-2{
+    position: absolute;
+    top: 274px;
+    left: 607px;
+    font-size: 6px;
+    color: grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#time-2{
+    position: absolute;
+    top: 266px;
+    left: 697px;
+    font-size: 6px;
+    color: grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#battery-2{
+    position: absolute;
+    top: 180px;
+    left: 696px;
+    font-size: 10px;
+}
+#signal-2{
+    position: absolute;
+    top: 179px;
+    left: 682px;
+    font-size: 10px;
+}
+#time-head{
+    position: absolute;
+    top: 180px;
+    left: 581px;
+    font-size: 9px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#u3{
+    position: absolute;
+    top: 287px;
+    left: 581px;
+    font-size: 18px;
+    color: rgb(171, 167, 167);
+}
+#contact-3{
+    position: absolute;
+    top: 289px;
+    left: 607px;
+    font-size: 8px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#chat-3{
+    position: absolute;
+    top: 297px;
+    left: 607px;
+    font-size: 6px;
+    color: grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#time-3{
+    position: absolute;
+    top: 290px;
+    left: 697px;
+    font-size: 6px;
+    color: grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#u4{
+    position: absolute;
+    top: 312px;
+    left: 581px;
+    font-size: 18px;
+    color: rgb(171, 167, 167);
+}
+#contact-4{
+    position: absolute;
+    top: 314px;
+    left: 607px;
+    font-size: 8px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#chat-4{
+    position: absolute;
+    top: 322px;
+    left: 607px;
+    font-size: 6px;
+    color: grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#time-4{
+    position: absolute;
+    top: 315px;
+    left: 697px;
+    font-size: 6px;
+    color: grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#u5{
+    position: absolute;
+    top: 337px;
+    left: 581px;
+    font-size: 18px;
+    color: rgb(171, 167, 167);
+}
+#contact-5{
+    position: absolute;
+    top: 339px;
+    left: 607px;
+    font-size: 8px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#chat-5{
+    position: absolute;
+    top: 347px;
+    left: 607px;
+    font-size: 6px;
+    color: grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#time-5{
+    position: absolute;
+    top: 340px;
+    left: 697px;
+    font-size: 6px;
+    color: grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#u6{
+    position: absolute;
+    top: 360px;
+    left: 581px;
+    font-size: 18px;
+    color: rgb(171, 167, 167);
+}
+#contact-6{
+    position: absolute;
+    top: 361px;
+    left: 607px;
+    font-size: 8px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#chat-6{
+    position: absolute;
+    top: 369px;
+    left: 607px;
+    font-size: 6px;
+    color: grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#time-6{
+    position: absolute;
+    top: 362px;
+    left: 697px;
+    font-size: 6px;
+    color: grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
